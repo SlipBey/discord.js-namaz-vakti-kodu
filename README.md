@@ -9,7 +9,7 @@ Türkiyede ilk yapılmış olan namaz vakti kodu.
  <b>Dikkat! Türkiye harf olan "Ğ" harfini içeren şehirler hariç bütün hepsini göstermektedir. Çözmek için: <code>"Ğ" yazmak yerine "G" yazarsanız; örnek: tekirdag kod çalışır.</code> </b>
  
   <h1> 📄 Lisans </h1>
-  Telif Hakkı © 2021 <a href="https://github.com/slipbey">SlipBey</a>
+  Telif Hakkı © 2021 <a href="https://github.com/slipbey">SlipBey</a> <br>
   Daha fazla bilgi için <code>LICENSE</code> dosaysına bakın.
   
   <h1>🔥 Destek</h1>
@@ -17,7 +17,7 @@ Türkiyede ilk yapılmış olan namaz vakti kodu.
 
 <h1>📞 İletişim </h1>
 
-Discord: https://discord.gg/eWmA4Ar
-Mail: gunaydinberkant13@gmail.com
-Instagram: https://www.instagram.com/slipbey/
-Youtube: https://youtube.com/c/AngelCraftNW/
+Discord: https://discord.gg/eWmA4Ar <br>
+Mail: gunaydinberkant13@gmail.com <br>
+Instagram: https://www.instagram.com/slipbey/ <br>
+Youtube: https://youtube.com/c/AngelCraftNW/ <br>
